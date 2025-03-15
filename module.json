@@ -1,8 +1,8 @@
 {
     "name": "limbus-style-text",
     "title": "Limbus Company Style Text",
-    "version": "1.0.0",
-    "author": "Your Name",
+    "version": "0.0.1",
+    "author": "Loli-Kartonka",
     "esmodules": ["./scripts/main.js"],
     "styles": ["./styles/float-text.css"],
     "languages": [
